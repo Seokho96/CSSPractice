@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+
+body{
+   color: blue;
+   text-align: center; 
+}
+
+</style>
+</head>
+<body>
+
+<h1>소이현, 오랜만에 여배우 근황 "이건 사기 옷빨이다"</h1>
+
+<p>소이현이 오랜만에 여배우 근황을 공개했다.</p>
+
+<p class="ex">소이현이 오랜만에 여배우 근황을 공개했다.</p>
+</body>
+</html>

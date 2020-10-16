@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+
+body{
+   color: blue;
+   text-align: center; 
+}
+h1{
+   color: #ff0000;
+   text-decoration: overline;
+}
+p{
+   color: #ffff00;
+}
+.ex {
+   color: rgb(0, 255, 0);
+   text-align: right;
+   text-decoration: line-through; 
+}
+a{
+   text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<h1>소이현, 오랜만에 여배우 근황 "이건 사기 옷빨이다"</h1>
+
+<p>소이현이 오랜만에 여배우 근황을 공개했다.</p>
+
+<p class="ex">소이현이 오랜만에 여배우 근황을 공개했다.</p>
+
+<a href="http://www.naver.com">Naver 사이트로 이동</a>
+<a href="http://www.google.com">google로 이동</a>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

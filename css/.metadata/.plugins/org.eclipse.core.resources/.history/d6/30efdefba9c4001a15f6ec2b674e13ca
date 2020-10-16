@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+
+<style type="text/css">
+
+#p1{
+   text-align: center;
+}
+.p2{
+   word-spacing: 30px;
+}
+</style>
+</head>
+<body>
+
+<!-- 정렬 -->
+<p align="left">p tag left</p>
+<p align="center">p tag center</p>
+<p align="right">p tag right</p>
+
+<h3 style="text-align: center;">h3 tag center</h3>
+
+<p id="p1">p tag id p1</p>
+
+<p class="p2">p tag class p2</p>
+
+<p class="p3">p tag class p3</p>
+
+</body>
+</html>

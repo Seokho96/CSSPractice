@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+body{
+/*   background-color: green;
+  background-image: url(20171118-010.jpg);
+  background-repeat: no-repeat;
+  background-position: right top; */
+  
+  background: #ff0000 url("20171118-010.jpg") no-repeat right top;
+}
+h1{
+   background-color: #6495ed;
+}
+
+p{
+   background-color: #e0ffff;
+}
+div{
+  background-color: #b0c4de; 
+}
+</style>
+</head>
+<body>
+
+<h1>천우희 "자유롭게 자신을 찾아가는 심은경에게 박수를"</h1>
+
+<div>
+오는 22일 개봉을 앞두고 쏟아지는 극찬을 받고 있는 올여름 가장 빛나는 데뷔작 '블루 아워(하코타 유코 감독)'가 배우 천우희와 연상호 감독, 장건재 감독의 뜨거운 호평을 공개했다.
+
+'블루 아워'는 완벽하게 지친 CF 감독 스나다(카호)가 돌아가고 싶지 않았던 고향으로 자유로운 친구 기요우라(심은경)와 여행을 떠나며 시작되는 특별한 이야기. 심은경과 영화 '써니'에서 함께 호흡을 맞춘 배우 천우희는 <p>“자유롭게 자신을 찾아가는 배우 심은경에게 박수와 응원을”이라며 찬사를 보내 영화를 기다리는 관객들을 설레게 한다.</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+body{
+/*   background-color: green;
+  background-image: url(20171118-010.jpg);
+  background-repeat: no-repeat;
+  background-position: right top; */
+  
+  background: #ff0000 url("20171118-010.jpg") no-repeat right top;
+}
+</style>
+</head>
+<body>
+
+</body>
+</html>

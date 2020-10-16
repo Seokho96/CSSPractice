@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+
+<style type="text/css">
+
+#p1{
+   text-align: center;
+}
+.p2{   /* 글자 사이의 공간을 30px씩 줘라~ */
+   word-spacing: 30px;
+}
+.p3{  /* 글자 하나하나 사이의 공간을 20px씩 줘라 */
+    letter-spacing: 20px;
+}
+</style>
+</head>
+<body>
+
+<!-- 정렬 -->
+<p align="left">p tag left</p>
+<p align="center">p tag center</p>
+<p align="right">p tag right</p>
+
+<h3 style="text-align: center;">h3 tag center</h3>
+
+<p id="p1">p tag id p1</p>
+
+<p class="p2">p tag class p2</p>
+
+<p class="p3">p tag class p3</p>
+
+</body>
+</html>

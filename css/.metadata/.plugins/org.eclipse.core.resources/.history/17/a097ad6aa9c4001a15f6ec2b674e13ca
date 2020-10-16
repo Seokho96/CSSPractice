@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+<!-- 정렬 -->
+<p align="left">p tag left</p>
+<p align="center">p tag center</p>
+<p align="right">p tag right</p>
+</body>
+</html>

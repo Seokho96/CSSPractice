@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+
+#fullscreen{
+   width: 600px;
+   height: 600px;
+   background-color: black;  
+}
+#left{
+   width: 200px;
+   height: 600px;
+   background-color: black; 
+}
+#lefttop{
+    width: 200px;
+   height: 500px;
+   background-color: red;
+   float: left;  
+}
+#leftdown{
+     width:200px;
+   height: 100px;
+   background-color: yellow;
+   float: left;   
+}
+#middle{
+    width:200px;
+   height: 600px;
+   background-color: blue;
+   float: middle;
+}
+
+
+</style>
+</head>
+<body>
+
+<div id="fullscreen">
+<div id="left">
+<div id="lefttop">
+</div>
+<div id="leftdown">
+</div>
+</div>
+<div id="right">
+<div id="righttop">
+</div>
+<div id="rightdown">
+</div>
+</div>
+<div id="middle">
+<div id="middletop">
+</div>
+<div id="middledown">
+</div>
+</div>
+</div>
+</body>
+</html>

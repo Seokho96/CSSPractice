@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<link rel="stylesheet" type="text/css" href="css/import.css">
+
+</head>
+<body>
+
+<div id="wrap">
+    <div class="inner">
+      <div class="tbl_type_01">
+         <table>
+            <caption>테이블 타입1</caption>
+             <colgroup>
+                <col style="width: 12opx"/>
+                </col /> 
+             </colgroup>
+         </table> 
+      </div>
+    </div>
+
+</div>
+
+</body>
+</html>

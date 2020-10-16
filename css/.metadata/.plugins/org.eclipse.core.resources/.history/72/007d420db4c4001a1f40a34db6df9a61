@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+   ul.ucls{
+      /* list-style-type: circle; */ /* 텍스트 옆에 모양 */
+      /* list-style-type: square;  */
+     /*  list-style-type: url("icon.jpg");  */
+     list-style-type: circle inside url("icon.jpg");
+   }
+   ol.ocls{
+      list-style-type: disc;
+   }
+</style>
+</head>
+<body>
+
+<ul class="ucls">   <!-- Unordered List 순서가 없는 목록 -->
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Cocoa</li>
+</ul>
+
+<ol class="ocls">   <!-- Ordered List 순서가 있는 목록 1, 2, 3 I II III ...-->
+    <li>Apple</li>
+    <li>Pear</li>
+    <li>Banana</li> 
+</ol>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

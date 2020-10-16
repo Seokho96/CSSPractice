@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style type="text/css">
+table{
+
+  width: 100%;
+  border-collapse: collapse;
+}
+table, th, td{
+   border: 1px solid black;
+}
+th{
+   height: 50px;
+   text-align: left; 
+   background-color: green; 
+}
+
+</style>
+</head>
+<body>
+
+<table>
+<tr>
+    <th>번호</th><th>이름</th><th>나이</th>
+</tr>
+<tr>
+    <th>1</th><th>홍길동</th><th>24</th>
+</tr>
+<tr>
+    <th>2</th><th>성춘향</th><th>16</th>
+</tr>
+<tr>
+    <th>3</th><th>일지매</th><th>21</th>
+</tr>
+
+</table> 
+
+</body>
+</html>
